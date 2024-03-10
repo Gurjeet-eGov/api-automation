@@ -1,4 +1,4 @@
-# Python Requests-Behave Framework
+# eGovDigit
 
 ## Execute behave using
 `behave --no-capture /feature_file_path --tags=tag_name1,tag_name2 -f allure_behave.formatter:AllureFormatter -o ~/report_json_directory_path`
